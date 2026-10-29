@@ -1,0 +1,317 @@
+{
+ "S01": {
+  "file": "samples/S01.jpg",
+  "original_name": "竖版_hero-style-backlit-glow.jpg",
+  "size": [
+   720,
+   1080
+  ],
+  "sha256": "44661cdb36724fee"
+ },
+ "S02": {
+  "file": "samples/S02.jpg",
+  "original_name": "竖版_hero-style-dark-hearth.jpg",
+  "size": [
+   720,
+   1080
+  ],
+  "sha256": "94bb7d74b71a1585"
+ },
+ "S03": {
+  "file": "samples/S03.jpg",
+  "original_name": "竖版_hero-style-mediterranean-sun.jpg",
+  "size": [
+   720,
+   1080
+  ],
+  "sha256": "edd4a41f91bf4c24"
+ },
+ "S04": {
+  "file": "samples/S04.jpg",
+  "original_name": "竖版_hero-style-retro-film.jpg",
+  "size": [
+   720,
+   1080
+  ],
+  "sha256": "1df3c906a3d000dd"
+ },
+ "S05": {
+  "file": "samples/S05.jpg",
+  "original_name": "竖版_img_v3_0214i_086955ea-c919-4e94-857a-16bf814d311g.webp",
+  "size": [
+   750,
+   1125
+  ],
+  "sha256": "61af9fb2bd312897"
+ },
+ "S06": {
+  "file": "samples/S06.jpg",
+  "original_name": "竖版_img_v3_0214i_08cda1dc-b94a-4c4a-8736-231b692977dg.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "82d8f6713f8ea383"
+ },
+ "S07": {
+  "file": "samples/S07.jpg",
+  "original_name": "竖版_img_v3_0214i_0ac42ce5-402e-48f3-95eb-b51c4c08640g.png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2dd4f871f3ed6c55"
+ },
+ "S08": {
+  "file": "samples/S08.jpg",
+  "original_name": "竖版_img_v3_0214i_0c902bdf-6dc7-4986-961f-0daf4f9b057g.webp",
+  "size": [
+   333,
+   500
+  ],
+  "sha256": "a0b08d08751dc7f0"
+ },
+ "S09": {
+  "file": "samples/S09.jpg",
+  "original_name": "竖版_img_v3_0214i_10a3b13d-3e11-482c-831b-14d18594052g_最新定稿.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "fd4abd3245e6a2bf"
+ },
+ "S10": {
+  "file": "samples/S10.jpg",
+  "original_name": "竖版_img_v3_0214i_1da3b853-3dcc-4fb1-9f92-485fd3dbe12g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "c5ece69a3c4cc99e"
+ },
+ "S11": {
+  "file": "samples/S11.jpg",
+  "original_name": "竖版_img_v3_0214i_206289ca-3412-48aa-8a22-c90b689dda2g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "f05ae758e9bec958"
+ },
+ "S12": {
+  "file": "samples/S12.jpg",
+  "original_name": "竖版_img_v3_0214i_279d6568-494a-4ce2-9366-c6c98a97c0fg.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "39284678f16d6b88"
+ },
+ "S13": {
+  "file": "samples/S13.jpg",
+  "original_name": "竖版_img_v3_0214i_332b22ea-a970-464d-9200-005346bd50bg.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "6e57ac986aaf44b6"
+ },
+ "S14": {
+  "file": "samples/S14.jpg",
+  "original_name": "竖版_img_v3_0214i_3875221c-8ef4-46e2-840c-99fd3a0f328g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "c89028b89f679574"
+ },
+ "S15": {
+  "file": "samples/S15.jpg",
+  "original_name": "竖版_img_v3_0214i_415daba0-dfa1-4cbb-bc8b-85d90161a34g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "9e10a65262158399"
+ },
+ "S16": {
+  "file": "samples/S16.jpg",
+  "original_name": "竖版_img_v3_0214i_444af6d9-6377-4164-8577-562c66d68e4g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "c121892e1c74dbc7"
+ },
+ "S17": {
+  "file": "samples/S17.jpg",
+  "original_name": "竖版_img_v3_0214i_5df59851-6fab-45f2-9ce9-d4b58ccb719g_最新定稿.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "0f822cabe1a506f9"
+ },
+ "S18": {
+  "file": "samples/S18.jpg",
+  "original_name": "竖版_img_v3_0214i_73a4fbdd-cb21-4434-927c-41e78264cc0g_最新定稿.jpg",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b51bb5738a9d0832"
+ },
+ "S19": {
+  "file": "samples/S19.jpg",
+  "original_name": "竖版_img_v3_0214i_7a313b92-57e6-45ea-b590-5752955a634g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "030c23c329ba1e85"
+ },
+ "S20": {
+  "file": "samples/S20.jpg",
+  "original_name": "竖版_img_v3_0214i_93fe2c6a-2d9a-4e3f-9cb1-123e8298bc1g.png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "83d27f3d7053740a"
+ },
+ "S21": {
+  "file": "samples/S21.jpg",
+  "original_name": "竖版_img_v3_0214i_9badb841-b939-4212-86c7-75a298d7422g.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "be76b17f782b04dc"
+ },
+ "S22": {
+  "file": "samples/S22.jpg",
+  "original_name": "竖版_img_v3_0214i_9f666700-c7f1-4c3e-aa55-9fd9f159b3bg.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "3b0da67b2b577677"
+ },
+ "S23": {
+  "file": "samples/S23.jpg",
+  "original_name": "竖版_img_v3_0214i_a0cc6ee4-3c02-429e-b9d4-831a618b434g.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "ebbb9137909a2ad0"
+ },
+ "S24": {
+  "file": "samples/S24.jpg",
+  "original_name": "竖版_img_v3_0214i_afe75d2b-41d3-4fe7-8612-12ca7ad1f65g.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "7f17f4c891a3f03c"
+ },
+ "S25": {
+  "file": "samples/S25.jpg",
+  "original_name": "竖版_img_v3_0214i_b2536416-dd15-4d86-817b-0ca2d6f1dc0g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "13ef3f9c49cab472"
+ },
+ "S26": {
+  "file": "samples/S26.jpg",
+  "original_name": "竖版_img_v3_0214i_b3b167f3-5275-469c-9607-cd9faefc54eg.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "41d1bd60332720ce"
+ },
+ "S27": {
+  "file": "samples/S27.jpg",
+  "original_name": "竖版_img_v3_0214i_baa1ce72-d56c-4d02-bd94-7598bc95c22g.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "f90be349ded1ed8a"
+ },
+ "S28": {
+  "file": "samples/S28.jpg",
+  "original_name": "竖版_img_v3_0214i_baf93a52-a771-4344-9277-9a61f0ce982g.webp",
+  "size": [
+   750,
+   1125
+  ],
+  "sha256": "a6edd47f8f7e13bb"
+ },
+ "S29": {
+  "file": "samples/S29.jpg",
+  "original_name": "竖版_img_v3_0214i_bdd33c02-1bf1-43e2-a305-7ea2fd78d12g_最新定稿.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "8a04e0516a674d27"
+ },
+ "S30": {
+  "file": "samples/S30.jpg",
+  "original_name": "竖版_img_v3_0214i_c1599855-ecbe-457e-9848-6e75fda112ag.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "20c11b237735a65f"
+ },
+ "S31": {
+  "file": "samples/S31.jpg",
+  "original_name": "竖版_img_v3_0214i_d02160a6-7624-4f2b-84b3-07c135cc696g.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "41a8db20d3fec8ea"
+ },
+ "S32": {
+  "file": "samples/S32.jpg",
+  "original_name": "竖版_img_v3_0214i_d1641302-7693-47de-aece-c9c256aa00fg.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "cc2ab7b392520f19"
+ },
+ "S33": {
+  "file": "samples/S33.jpg",
+  "original_name": "竖版_img_v3_0214i_d90ebf0f-fee3-4734-84ab-1afb19b1548g.webp",
+  "size": [
+   750,
+   1125
+  ],
+  "sha256": "f163d88348dec644"
+ },
+ "S34": {
+  "file": "samples/S34.jpg",
+  "original_name": "竖版_img_v3_0214i_e8477ea4-90af-47fa-940b-b5d20f30288g.jpg",
+  "size": [
+   1248,
+   1872
+  ],
+  "sha256": "4b4e3a983b4b52f7"
+ },
+ "S35": {
+  "file": "samples/S35.jpg",
+  "original_name": "竖版_studio-pineapple_最新定稿.jpg",
+  "size": [
+   1365,
+   2048
+  ],
+  "sha256": "5a28bd188c245948"
+ }
+}
